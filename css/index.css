@@ -1,0 +1,18 @@
+#header-img-modal .bg-wrap {
+    background: #00a651;
+}
+
+#header-img-modal .bg {
+    background-image: url('../images//uploaded/7/gbillpay-banner.jpeg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    opacity: 1;
+}
+#sep-bottom-5 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}     #sep-bottom-5--0 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}     #action-img-text .bg-wrap {
+    background: #00a651;
+}
