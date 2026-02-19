@@ -388,3 +388,22 @@ section.dark, footer.dark, header.dark {
 	font-size: 25px;
 	}
 }
+
+/* Hero and Preloader adjustments */
+#preloader img {
+    width: 200px !important;
+}
+
+#header-img-modal {
+    padding-top: 900px !important;
+}
+
+@media (max-width: 768px) {
+    #header-img-modal {
+        padding-top: 105vw !important;
+    }
+}
+
+.mt-hero {
+    margin-top: 0px !important;
+}
