@@ -395,7 +395,7 @@ section.dark, footer.dark, header.dark {
 }
 
 #header-img-modal {
-    padding-top: 900px !important;
+    padding-top: 700px !important;
 }
 
 @media (max-width: 768px) {
